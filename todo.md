@@ -12,3 +12,5 @@
 - [ ] Reemplazar logro de documentación por reconocimiento en redes sociales
 - [ ] Optimizar `Hero3D.tsx`: limitar `dpr` (pixel ratio) en móviles para mejorar rendimiento
 - [ ] Simplificar geometría o reducir conteo de partículas en móviles si es necesario
+- [ ] Actualizar cifra de paquetes a 75.500 en `es.json` y `en.json`
+- [ ] Añadir disponibilidad virtual mundial en el Footer (`es.json` y `en.json`)
