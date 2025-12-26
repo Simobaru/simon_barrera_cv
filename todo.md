@@ -8,3 +8,7 @@
 - [ ] Verificar funcionamiento de despliegue y preparar instrucciones
 - [ ] Crear archivo `vercel.json` para configuración de despliegue
 - [ ] Verificar scripts de build en `package.json` para compatibilidad con Vercel
+- [ ] Actualizar `es.json` y `en.json` con experiencia laboral completa (omitir colegio)
+- [ ] Reemplazar logro de documentación por reconocimiento en redes sociales
+- [ ] Optimizar `Hero3D.tsx`: limitar `dpr` (pixel ratio) en móviles para mejorar rendimiento
+- [ ] Simplificar geometría o reducir conteo de partículas en móviles si es necesario
