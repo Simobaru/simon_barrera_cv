@@ -38,31 +38,67 @@
         "description": "Leadership under pressure in international competitions. Technical mentorship and communication strategy in multicultural environments, demonstrating that managing limited resources is a key technical skill."
       },
       {
+        "role": "Technical Mentor - FIRST Tech Challenge (FTC)",
+        "company": "Team Colombia",
+        "period": "2025 – Present",
+        "description": "Lead mentor in creating one of the first FTC teams in Colombia. Leadership in mechanical design, manufacturing, and construction strategy under international standards."
+      },
+      {
         "role": "Web Developer & Digital Solutions",
         "company": "Independent Projects",
         "period": "August 2024 – Present",
         "description": "Creation of real operational interfaces. Development of platforms like BaruLogix and Eduqualityco, integrating operational needs with robust technological solutions."
+      },
+      {
+        "role": "Technical Mentor - FRC Stemachines 9087",
+        "company": "Yumbo Mayor's Office Project",
+        "period": "January – May 2023",
+        "description": "Responsible for chassis design, mechanisms, and technical documentation according to FRC regulations. Technical support in design and construction."
+      },
+      {
+        "role": "Digitalization Consultant",
+        "company": "Eduqualityco – Ministry of Culture",
+        "period": "2024",
+        "description": "Participation in the 'Pacífico en su Salsa' project. Optimization and structuring of educational content in digital environments, bridging technology and cultural management."
+      },
+      {
+        "role": "Academic Monitor - COMPAS Strategy",
+        "company": "Universidad Autónoma de Occidente",
+        "period": "2024",
+        "description": "Academic and social support for first-semester students, aiding their integration and development of transversal skills."
+      },
+      {
+        "role": "Robotics Referee & Judge",
+        "company": "MakeX – FIRST LEGO League",
+        "period": "Various Events",
+        "description": "Evaluation of performance, rule compliance, robot design, and FIRST values in official regional competitions."
+      },
+      {
+        "role": "Technical Project Advisor",
+        "company": "Educational Institutions",
+        "period": "Various Periods",
+        "description": "Comprehensive technical support in the design and development of functional prototypes with Arduino and applied electronics for solving real-world problems."
       }
     ]
   },
   "achievements": {
     "title": "Achievements & Awards",
-    "items": [
+"items": [
       {
         "value": "Top 4",
-        "label": "Worldwide at FIRST Global Challenge 2024"
-      },
-      {
-        "value": "3rd",
-        "label": "Place Worldwide in Engineering Documentation"
+        "label": "Worldwide - FIRST Global Challenge 2024"
       },
       {
         "value": "Top 8",
-        "label": "Worldwide at FIRST Global Challenge 2020"
+        "label": "Worldwide - FIRST Global Challenge 2020"
+      },
+      {
+        "value": "Global",
+        "label": "International Social Media Recognition (2022-2025)"
       },
       {
         "value": "1st",
-        "label": "Place Ingenium Fest UAO 2025"
+        "label": "Place - Ingenium Fest UAO 2025"
       }
     ]
   },

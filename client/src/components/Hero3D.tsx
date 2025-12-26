@@ -89,12 +89,12 @@ export default function Hero3D() {
     <section className="relative h-screen w-full overflow-hidden bg-[#0B1F33]">
       {/* 3D Background Layer */}
       <div className="absolute inset-0 z-0">
-        <Canvas>
+        <Canvas dpr={[1, 2]} gl={{ antialias: false, powerPreference: "high-performance" }}>
           <PerspectiveCamera makeDefault position={[0, 0, 5]} />
           <ambientLight intensity={0.5} />
           <pointLight position={[10, 10, 10]} intensity={1} color="#2FA4FF" />
           <pointLight position={[-10, -10, -10]} intensity={0.5} color="#4FC3F7" />
-          <Stars radius={100} depth={50} count={5000} factor={4} saturation={0} fade speed={1} />
+          <Stars radius={100} depth={50} count={3000} factor={4} saturation={0} fade speed={1} />
           <GeometricScene />
           <fog attach="fog" args={['#0B1F33', 5, 15]} />
         </Canvas>
