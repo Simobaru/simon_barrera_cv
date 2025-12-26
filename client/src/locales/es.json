@@ -1,13 +1,20 @@
 {
   "hero": {
     "role": "Ingeniero Mecatrónico en formación · Líder Técnico · IA Generativa aplicada",
-    "statement": "Transformando la teoría en ejecución estratégica de alto impacto.",
+    "statement": "No solo diseño sistemas: los implemento, los pruebo y los hago funcionar en contextos reales.",
+    "tagline": "Ingeniería de Sistemas · Ejecución Operativa · Impacto Sostenible",
     "cta_primary": "Ver Experiencia",
     "cta_secondary": "Descargar CV"
   },
   "about": {
     "title": "Perfil Profesional",
-    "description": "Ingeniero Mecatrónico en formación con trayectoria en liderazgo técnico, robótica internacional y consultoría en Inteligencia Artificial Generativa. Fundador de SCIBARU AI y mentor internacional en competencias STEM. Mi enfoque combina la ejecución técnica precisa con una visión estratégica para liderar equipos y generar soluciones sostenibles en contextos educativos y empresariales."
+    "description": "Me interesa la tecnología no como un fin, sino como un medio para resolver problemas reales. Mi trabajo se mueve entre la ingeniería, la educación y la ejecución operativa, buscando siempre cerrar la brecha entre la teoría y la implementación efectiva.",
+    "philosophy": "Prefiero sistemas que funcionen 10 años a soluciones brillantes que fallan en producción.",
+    "mindset": [
+      "Enfoque sistémico: procesos completos, no tareas aisladas.",
+      "Obsesión por la trazabilidad y métricas.",
+      "Alta tolerancia a contextos incompletos y presión."
+    ]
   },
   "experience": {
     "title": "Experiencia Destacada",
@@ -16,25 +23,25 @@
         "role": "Coordinador de Operaciones y Representante Legal",
         "company": "BaruCourier SAS",
         "period": "2024 – Actualidad",
-        "description": "Liderazgo operativo y estratégico de logística de última milla. Gestión de +16.500 paquetes mensuales y desarrollo de herramientas digitales propias (BaruLogix)."
+        "description": "Estandarización de flujos y digitalización de trazabilidad para logística de última milla. Desarrollo de BaruLogix para control operativo y escalabilidad, gestionando +16.500 paquetes mensuales con menor fricción interempresarial."
       },
       {
         "role": "Fundador y Director",
         "company": "SCIBARU AI",
         "period": "2023 – Actualidad",
-        "description": "Consultoría aplicada en IA Generativa. Diseño de programas de formación y asesoría estratégica para la adopción de tecnologías 4RI en organizaciones."
+        "description": "Consultoría aplicada para cerrar la brecha de adopción de IA. Diseño de formación práctica y priorización de casos de uso con ROI rápido, logrando curvas de aprendizaje aceleradas e implementaciones piloto reales."
       },
       {
         "role": "Mentor Internacional",
         "company": "Team Colombia | FIRST Global Challenge",
         "period": "Desde 2023",
-        "description": "Mentoría técnica y estratégica en robótica internacional. Liderazgo en diseño mecánico y relaciones internacionales representando a Colombia."
+        "description": "Liderazgo bajo presión en competencias internacionales. Mentoría técnica y estrategia de comunicación en entornos multiculturales, demostrando que la gestión de recursos limitados es una habilidad técnica clave."
       },
       {
         "role": "Desarrollador Web y Soluciones Digitales",
         "company": "Proyectos Independientes",
         "period": "Agosto 2024 – Actualidad",
-        "description": "Desarrollo de plataformas como BaruLogix y Eduqualityco, optimizando procesos operativos y educativos mediante soluciones web a medida."
+        "description": "Creación de interfaces operativas reales. Desarrollo de plataformas como BaruLogix y Eduqualityco, integrando necesidades operativas con soluciones tecnológicas robustas."
       }
     ]
   },
@@ -88,7 +95,8 @@
     "email": "simon.baruiz@gmail.com",
     "phone": "+57 304 283 6901",
     "location": "Cali – Palmira, Colombia",
-    "cta": "Hablemos"
+    "cta": "Hablemos",
+    "message": "Estoy interesado en proyectos donde la tecnología tenga un propósito claro, se ejecute con rigor y genere impacto real. Siempre abierto a conversaciones que involucren ingeniería, innovación y construcción de sistemas que funcionen en el mundo real."
   },
   "nav": {
     "about": "Perfil",

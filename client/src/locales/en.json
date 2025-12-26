@@ -1,13 +1,20 @@
 {
   "hero": {
     "role": "Mechatronics Engineer in Training · Technical Lead · Applied Generative AI",
-    "statement": "Transforming theory into high-impact strategic execution.",
+    "statement": "I don't just design systems: I implement them, test them, and make them work in real contexts.",
+    "tagline": "Systems Engineering · Operational Execution · Sustainable Impact",
     "cta_primary": "View Experience",
     "cta_secondary": "Download CV"
   },
   "about": {
     "title": "Professional Profile",
-    "description": "Mechatronics Engineer in training with a track record in technical leadership, international robotics, and Generative AI consulting. Founder of SCIBARU AI and international mentor in STEM competitions. My approach combines precise technical execution with strategic vision to lead teams and generate sustainable solutions in educational and business contexts."
+    "description": "I am interested in technology not as an end, but as a means to solve real problems. My work moves between engineering, education, and operational execution, always seeking to bridge the gap between theory and effective implementation.",
+    "philosophy": "I prefer systems that work for 10 years over brilliant solutions that fail in production.",
+    "mindset": [
+      "Systemic approach: complete processes, not isolated tasks.",
+      "Obsession with traceability and metrics.",
+      "High tolerance for incomplete contexts and pressure."
+    ]
   },
   "experience": {
     "title": "Featured Experience",
@@ -16,25 +23,25 @@
         "role": "Operations Coordinator & Legal Representative",
         "company": "BaruCourier SAS",
         "period": "2024 – Present",
-        "description": "Operational and strategic leadership of last-mile logistics. Management of +16,500 monthly packages and development of proprietary digital tools (BaruLogix)."
+        "description": "Standardization of flows and digitization of traceability for last-mile logistics. Development of BaruLogix for operational control and scalability, managing +16,500 monthly packages with reduced inter-company friction."
       },
       {
         "role": "Founder & Director",
         "company": "SCIBARU AI",
         "period": "2023 – Present",
-        "description": "Applied consulting in Generative AI. Design of training programs and strategic advice for the adoption of 4IR technologies in organizations."
+        "description": "Applied consulting to close the AI adoption gap. Design of practical training and prioritization of use cases with rapid ROI, achieving accelerated learning curves and real pilot implementations."
       },
       {
         "role": "International Mentor",
         "company": "Team Colombia | FIRST Global Challenge",
         "period": "Since 2023",
-        "description": "Technical and strategic mentorship in international robotics. Leadership in mechanical design and international relations representing Colombia."
+        "description": "Leadership under pressure in international competitions. Technical mentorship and communication strategy in multicultural environments, demonstrating that managing limited resources is a key technical skill."
       },
       {
         "role": "Web Developer & Digital Solutions",
         "company": "Independent Projects",
         "period": "August 2024 – Present",
-        "description": "Development of platforms such as BaruLogix and Eduqualityco, optimizing operational and educational processes through custom web solutions."
+        "description": "Creation of real operational interfaces. Development of platforms like BaruLogix and Eduqualityco, integrating operational needs with robust technological solutions."
       }
     ]
   },
@@ -88,7 +95,8 @@
     "email": "simon.baruiz@gmail.com",
     "phone": "+57 304 283 6901",
     "location": "Cali – Palmira, Colombia",
-    "cta": "Let's Talk"
+    "cta": "Let's Talk",
+    "message": "I am interested in projects where technology has a clear purpose, is executed with rigor, and generates real impact. Always open to conversations involving engineering, innovation, and building systems that work in the real world."
   },
   "nav": {
     "about": "Profile",

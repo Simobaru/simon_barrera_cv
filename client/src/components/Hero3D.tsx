@@ -9,11 +9,30 @@ import * as THREE from 'three';
 
 function GeometricScene() {
   const groupRef = useRef<THREE.Group>(null);
+  const mouseRef = useRef({ x: 0, y: 0 });
+
+  useEffect(() => {
+    const handleMouseMove = (event: MouseEvent) => {
+      mouseRef.current = {
+        x: (event.clientX / window.innerWidth) * 2 - 1,
+        y: -(event.clientY / window.innerHeight) * 2 + 1,
+      };
+    };
+    window.addEventListener('mousemove', handleMouseMove);
+    return () => window.removeEventListener('mousemove', handleMouseMove);
+  }, []);
   
   useFrame((state) => {
     if (groupRef.current) {
+      // Base rotation
       groupRef.current.rotation.y = state.clock.getElapsedTime() * 0.05;
-      groupRef.current.rotation.x = Math.sin(state.clock.getElapsedTime() * 0.1) * 0.1;
+      
+      // Mouse interaction (smooth interpolation)
+      const targetX = mouseRef.current.y * 0.5;
+      const targetY = mouseRef.current.x * 0.5;
+      
+      groupRef.current.rotation.x += (targetX - groupRef.current.rotation.x) * 0.05;
+      groupRef.current.rotation.z += (targetY - groupRef.current.rotation.z) * 0.05;
     }
   });
 
@@ -112,7 +131,12 @@ export default function Hero3D() {
               {t('hero.cta_primary')} <ChevronRight className="ml-2 w-4 h-4" />
             </Button>
             
-            <Button variant="outline" size="lg" className="border-white/20 text-white hover:bg-white/10 px-8 h-12 text-lg rounded-full backdrop-blur-sm">
+            <Button 
+              variant="outline" 
+              size="lg" 
+              className="border-white/20 text-white hover:bg-white/10 px-8 h-12 text-lg rounded-full backdrop-blur-sm"
+              onClick={() => window.open('/CV_Simon_Barrera_Ruiz.pdf', '_blank')}
+            >
               {t('hero.cta_secondary')} <Download className="ml-2 w-4 h-4" />
             </Button>
           </div>
