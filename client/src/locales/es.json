@@ -1,0 +1,99 @@
+{
+  "hero": {
+    "role": "Ingeniero Mecatrónico en formación · Líder Técnico · IA Generativa aplicada",
+    "statement": "Transformando la teoría en ejecución estratégica de alto impacto.",
+    "cta_primary": "Ver Experiencia",
+    "cta_secondary": "Descargar CV"
+  },
+  "about": {
+    "title": "Perfil Profesional",
+    "description": "Ingeniero Mecatrónico en formación con trayectoria en liderazgo técnico, robótica internacional y consultoría en Inteligencia Artificial Generativa. Fundador de SCIBARU AI y mentor internacional en competencias STEM. Mi enfoque combina la ejecución técnica precisa con una visión estratégica para liderar equipos y generar soluciones sostenibles en contextos educativos y empresariales."
+  },
+  "experience": {
+    "title": "Experiencia Destacada",
+    "items": [
+      {
+        "role": "Coordinador de Operaciones y Representante Legal",
+        "company": "BaruCourier SAS",
+        "period": "2024 – Actualidad",
+        "description": "Liderazgo operativo y estratégico de logística de última milla. Gestión de +16.500 paquetes mensuales y desarrollo de herramientas digitales propias (BaruLogix)."
+      },
+      {
+        "role": "Fundador y Director",
+        "company": "SCIBARU AI",
+        "period": "2023 – Actualidad",
+        "description": "Consultoría aplicada en IA Generativa. Diseño de programas de formación y asesoría estratégica para la adopción de tecnologías 4RI en organizaciones."
+      },
+      {
+        "role": "Mentor Internacional",
+        "company": "Team Colombia | FIRST Global Challenge",
+        "period": "Desde 2023",
+        "description": "Mentoría técnica y estratégica en robótica internacional. Liderazgo en diseño mecánico y relaciones internacionales representando a Colombia."
+      },
+      {
+        "role": "Desarrollador Web y Soluciones Digitales",
+        "company": "Proyectos Independientes",
+        "period": "Agosto 2024 – Actualidad",
+        "description": "Desarrollo de plataformas como BaruLogix y Eduqualityco, optimizando procesos operativos y educativos mediante soluciones web a medida."
+      }
+    ]
+  },
+  "achievements": {
+    "title": "Logros y Reconocimientos",
+    "items": [
+      {
+        "value": "Top 4",
+        "label": "Mundial en FIRST Global Challenge 2024"
+      },
+      {
+        "value": "3er",
+        "label": "Puesto Mundial en Documentación de Ingeniería"
+      },
+      {
+        "value": "Top 8",
+        "label": "Mundial en FIRST Global Challenge 2020"
+      },
+      {
+        "value": "1er",
+        "label": "Puesto Ingenium Fest UAO 2025"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Stack Tecnológico",
+    "categories": {
+      "engineering": "Ingeniería y Simulación",
+      "programming": "Programación",
+      "electronics": "Electrónica",
+      "dev": "Desarrollo y Multimedia"
+    },
+    "items": {
+      "engineering": ["MATLAB", "Octave", "SolidWorks", "Onshape"],
+      "programming": ["Python", "R", "Java", "C++"],
+      "electronics": ["Arduino", "Proteus", "Multisim"],
+      "dev": ["React", "TypeScript", "Three.js", "Next.js"]
+    }
+  },
+  "international": {
+    "title": "Impacto Global",
+    "description": "Participación activa en escenarios internacionales de ciencia y tecnología.",
+    "items": [
+      "Líder nacional en FIRST Global Challenge (Ginebra, Suiza 2022)",
+      "Voluntario Internacional FIRST Global 2025 (Panamá)",
+      "Reconocimiento internacional en redes sociales Team Colombia"
+    ]
+  },
+  "contact": {
+    "title": "Contacto",
+    "email": "simon.baruiz@gmail.com",
+    "phone": "+57 304 283 6901",
+    "location": "Cali – Palmira, Colombia",
+    "cta": "Hablemos"
+  },
+  "nav": {
+    "about": "Perfil",
+    "experience": "Experiencia",
+    "achievements": "Logros",
+    "contact": "Contacto"
+  }
+}

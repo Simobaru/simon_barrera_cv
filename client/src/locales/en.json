@@ -1,0 +1,99 @@
+{
+  "hero": {
+    "role": "Mechatronics Engineer in Training · Technical Lead · Applied Generative AI",
+    "statement": "Transforming theory into high-impact strategic execution.",
+    "cta_primary": "View Experience",
+    "cta_secondary": "Download CV"
+  },
+  "about": {
+    "title": "Professional Profile",
+    "description": "Mechatronics Engineer in training with a track record in technical leadership, international robotics, and Generative AI consulting. Founder of SCIBARU AI and international mentor in STEM competitions. My approach combines precise technical execution with strategic vision to lead teams and generate sustainable solutions in educational and business contexts."
+  },
+  "experience": {
+    "title": "Featured Experience",
+    "items": [
+      {
+        "role": "Operations Coordinator & Legal Representative",
+        "company": "BaruCourier SAS",
+        "period": "2024 – Present",
+        "description": "Operational and strategic leadership of last-mile logistics. Management of +16,500 monthly packages and development of proprietary digital tools (BaruLogix)."
+      },
+      {
+        "role": "Founder & Director",
+        "company": "SCIBARU AI",
+        "period": "2023 – Present",
+        "description": "Applied consulting in Generative AI. Design of training programs and strategic advice for the adoption of 4IR technologies in organizations."
+      },
+      {
+        "role": "International Mentor",
+        "company": "Team Colombia | FIRST Global Challenge",
+        "period": "Since 2023",
+        "description": "Technical and strategic mentorship in international robotics. Leadership in mechanical design and international relations representing Colombia."
+      },
+      {
+        "role": "Web Developer & Digital Solutions",
+        "company": "Independent Projects",
+        "period": "August 2024 – Present",
+        "description": "Development of platforms such as BaruLogix and Eduqualityco, optimizing operational and educational processes through custom web solutions."
+      }
+    ]
+  },
+  "achievements": {
+    "title": "Achievements & Awards",
+    "items": [
+      {
+        "value": "Top 4",
+        "label": "Worldwide at FIRST Global Challenge 2024"
+      },
+      {
+        "value": "3rd",
+        "label": "Place Worldwide in Engineering Documentation"
+      },
+      {
+        "value": "Top 8",
+        "label": "Worldwide at FIRST Global Challenge 2020"
+      },
+      {
+        "value": "1st",
+        "label": "Place Ingenium Fest UAO 2025"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech Stack",
+    "categories": {
+      "engineering": "Engineering & Simulation",
+      "programming": "Programming",
+      "electronics": "Electronics",
+      "dev": "Development & Multimedia"
+    },
+    "items": {
+      "engineering": ["MATLAB", "Octave", "SolidWorks", "Onshape"],
+      "programming": ["Python", "R", "Java", "C++"],
+      "electronics": ["Arduino", "Proteus", "Multisim"],
+      "dev": ["React", "TypeScript", "Three.js", "Next.js"]
+    }
+  },
+  "international": {
+    "title": "Global Impact",
+    "description": "Active participation in international science and technology scenarios.",
+    "items": [
+      "National Leader at FIRST Global Challenge (Geneva, Switzerland 2022)",
+      "International Volunteer FIRST Global 2025 (Panama)",
+      "International recognition on social media Team Colombia"
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "email": "simon.baruiz@gmail.com",
+    "phone": "+57 304 283 6901",
+    "location": "Cali – Palmira, Colombia",
+    "cta": "Let's Talk"
+  },
+  "nav": {
+    "about": "Profile",
+    "experience": "Experience",
+    "achievements": "Achievements",
+    "contact": "Contact"
+  }
+}
