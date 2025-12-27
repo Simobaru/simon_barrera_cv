@@ -38,7 +38,7 @@ export default function Navbar() {
     >
       <div className="container flex items-center justify-between">
         <a href="#" className="text-2xl font-serif font-bold tracking-tighter text-white">
-          SB<span className="text-primary">.</span>
+          SBR<span className="text-primary">.</span>
         </a>
 
         {/* Desktop Nav */}

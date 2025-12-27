@@ -23,7 +23,7 @@
         "role": "Coordinador de Operaciones y Representante Legal",
         "company": "BaruCourier SAS",
         "period": "2024 – Actualidad",
-        "description": "Estandarización de flujos y digitalización de trazabilidad para logística de última milla. Desarrollo de BaruLogix para control operativo y escalabilidad, gestionando +75.500 paquetes mensuales con menor fricción interempresarial."
+        "description": "Estandarización de flujos y digitalización de trazabilidad para logística de última milla. Desarrollo de BaruLogix para control operativo y escalabilidad, gestionando +25.500 paquetes mensuales con menor fricción interempresarial."
       },
       {
         "role": "Fundador y Director",
@@ -114,7 +114,13 @@
       "engineering": ["MATLAB", "Octave", "SolidWorks", "Onshape"],
       "programming": ["Python", "R", "Java", "C++"],
       "electronics": ["Arduino", "Proteus", "Multisim"],
-      "dev": ["React", "TypeScript", "Three.js", "Next.js"]
+      "dev": ["React", "TypeScript", "Three.js", "Next.js"],
+      "languages": [
+        "Español: C2 (Nativo)",
+        "Inglés: C1+ (Linguaskill)",
+        "Francés: A2 (Universidad Autónoma de Occidente)",
+        "Alemán: A2 (Duolingo)"
+      ]
     }
   },
   "international": {

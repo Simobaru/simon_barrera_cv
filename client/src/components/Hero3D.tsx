@@ -83,7 +83,7 @@ function GeometricScene() {
 }
 
 export default function Hero3D() {
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
 
   return (
     <section className="relative h-screen w-full overflow-hidden bg-[#0B1F33]">
@@ -135,7 +135,10 @@ export default function Hero3D() {
               variant="outline" 
               size="lg" 
               className="border-white/20 text-white hover:bg-white/10 px-8 h-12 text-lg rounded-full backdrop-blur-sm"
-              onClick={() => window.open('/CV_Simon_Barrera_Ruiz.pdf', '_blank')}
+              onClick={() => {
+                const cvFile = i18n.language === 'en' ? '/cv_en.pdf' : '/cv_es.pdf';
+                window.open(cvFile, '_blank');
+              }}
             >
               {t('hero.cta_secondary')} <Download className="ml-2 w-4 h-4" />
             </Button>
