@@ -14,3 +14,8 @@
 - [ ] Simplificar geometría o reducir conteo de partículas en móviles si es necesario
 - [ ] Actualizar cifra de paquetes a 75.500 en `es.json` y `en.json`
 - [ ] Añadir disponibilidad virtual mundial en el Footer (`es.json` y `en.json`)
+- [ ] Añadir Francés A2 a `es.json` y `en.json`
+- [ ] Corregir cifra de paquetes a 25.500 en `es.json` y `en.json`
+- [ ] Cambiar logo de "SB." a "SBR." en `Navbar.tsx`
+- [ ] Convertir nuevos DOCX a PDF y renombrarlos (`cv_es.pdf`, `cv_en.pdf`)
+- [ ] Actualizar lógica de descarga en `Hero3D.tsx` para seleccionar PDF según idioma
