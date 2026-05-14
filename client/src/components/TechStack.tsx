@@ -1,12 +1,13 @@
 import { motion } from 'framer-motion';
 import { useTranslation } from 'react-i18next';
-import { Cpu, Code, Zap, Monitor } from 'lucide-react';
+import { Cpu, Code, Zap, Monitor, Award } from 'lucide-react';
 
 const icons = {
   engineering: Cpu,
   programming: Code,
   electronics: Zap,
-  dev: Monitor
+  dev: Monitor,
+  certifications: Award
 };
 
 export default function TechStack() {

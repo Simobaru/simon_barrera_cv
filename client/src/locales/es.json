@@ -1,14 +1,14 @@
 {
   "hero": {
     "role": "Ingeniero Mecatrónico · Especialista en IA · Líder Técnico de Robótica",
-    "statement": "Ingeniería de sistemas que prosperan en la complejidad del mundo real. Me especializo en cerrar la brecha entre el diseño teórico y la excelencia operativa mediante pruebas rigurosas e implementación iterativa.",
+    "statement": "No solo diseño sistemas: los construyo, los pruebo y los hago funcionar en el mundo real. Mi meta es cerrar la brecha entre la teoría de ingeniería y una implementación efectiva de alto impacto.",
     "tagline": "Ingeniería de Sistemas · Ejecución Operativa · Impacto Sostenible",
     "cta_primary": "Ver Experiencia",
     "cta_secondary": "Descargar CV"
   },
   "about": {
     "title": "Perfil Profesional",
-    "description": "Concibo la tecnología como un catalizador para la resolución pragmática de problemas. Mi trayectoria profesional integra la ingeniería mecatrónica, la educación especializada y las operaciones estratégicas, con el firme propósito de transformar conceptos abstractos en soluciones de alto impacto listas para producción.",
+    "description": "Veo la tecnología como una herramienta para resolver problemas reales, no como un fin en sí mismo. Mi experiencia abarca ingeniería, educación y operaciones, siempre enfocado en crear sistemas confiables, trazables y listos para producción.",
     "philosophy": "Prefiero sistemas que funcionen 10 años a soluciones brillantes que fallan en producción.",
     "mindset": [
       "Enfoque sistémico: procesos completos, no tareas aisladas.",
@@ -17,91 +17,133 @@
     ]
   },
   "experience": {
-    "title": "Experiencia Destacada",
+    "title": "Experiencia Profesional",
     "items": [
       {
-        "role": "Coordinador de Operaciones y Representante Legal",
-        "company": "BaruCourier SAS",
-        "period": "2024 – Actualidad",
-        "description": "Liderazgo estratégico y ejecución operativa para una startup de logística de última milla, enfocada en la escalabilidad y trazabilidad basada en datos.",
-        "points": [
-          "Gestión integral del control de entrega de +27,500 paquetes mensuales mediante sistemas de datos personalizados.",
-          "Desarrollo de BaruLogix, una plataforma web propia para el seguimiento en tiempo real y el redespacho operativo.",
-          "Liderazgo en la coordinación interempresarial y estrategias de clasificación de etiquetas para asegurar un 99%+ de continuidad operativa."
-        ]
-      },
-      {
         "role": "Fundador y Director",
-        "company": "SCIBARU AI",
+        "company": "SCIBARU AI — Palmira, Colombia",
         "period": "2023 – Actualidad",
         "link": "scibaru-ai.vercel.app",
         "link_label": "scibaru-ai.vercel.app",
-        "description": "Dirección de una firma de consultoría y capacitación corporativa en IA dedicada a cerrar la brecha entre la teoría y la adopción de la Industria 4.0.",
+        "description": "Firma de consultoría y capacitación corporativa en IA que conecta la teoría con la adopción real de la Industria 4.0.",
         "points": [
-          "Ejecución de +6 programas de IA especializados para instituciones como el Colegio Bilingüe San José Campestre y Eduqualityco.",
-          "Pionero en cursos sobre sistemas de IA Agéntica utilizando plataformas de vanguardia como Google Antigravity y Manus.",
-          "Especialización en la adopción de IA para poblaciones diversas, incluyendo cursos para adultos de 60+ en el Centro de Bienestar Sagezza."
+          "Diseño y ejecución de +6 programas de capacitación en IA para diversas entidades y clientes institucionales.",
+          "Dictado de 2 cursos completos en el Centro de Bienestar Sagezza: 'Introducción a la IA' e 'IA Aplicada a la Vida Activa' para adultos mayores de 60 años.",
+          "Dictado de 2 cursos en el Colegio Bilingüe San José Campestre para personal administrativo y docente, además de actuar como Consultor de IA.",
+          "Cursos sobre sistemas de IA Agéntica (Google Antigravity, Manus) para Eduqualityco enfocados en automatización real.",
+          "Co-liderazgo de 2 cursos de IA generativa para emprendedores del Pacífico (diseño de etiquetas y prompt engineering) con Eduqualityco.",
+          "Asesoría a organizaciones en la identificación y ejecución de proyectos de IA con alto ROI e impacto medible.",
+          "Posicionamiento de SCIBARU AI como referente de consultoría en Industria 4.0 en la región."
         ]
       },
       {
-        "role": "Mentor Técnico Internacional",
-        "company": "Team Colombia | FIRST Global Challenge",
-        "period": "Desde 2023",
-        "description": "Liderazgo técnico para la selección nacional de Colombia en la competencia de robótica más prestigiosa del mundo.",
+        "role": "Coordinador de Operaciones y Representante Legal",
+        "company": "BaruCourier SAS — Palmira",
+        "period": "2024 – Actualidad",
+        "description": "Liderazgo operativo y estratégico integral de una startup de logística de última milla.",
         "points": [
-          "Logro del Top 4 Mundial en 2024 (Atenas) y 3er puesto en Documentación de Ingeniería.",
-          "Responsable de la optimización estructural, el cumplimiento normativo y la estrategia de competencia bajo alta presión.",
-          "Liderazgo en relaciones internacionales y estrategia de comunicación logrando reconocimientos globales para Team Colombia."
+          "Gestión de trazabilidad y control de entrega de +27,500 paquetes mensuales mediante la sistematización de datos.",
+          "Desarrollo de BaruLogix: plataforma web propia para seguimiento logístico, coordinación de redespacho y toma de decisiones basada en datos.",
+          "Liderazgo en coordinación interempresarial, etiquetado, clasificación e integración con socios de entrega externos.",
+          "Garantía de continuidad operativa a escala mediante la estandarización rigurosa de procesos."
         ]
       },
       {
         "role": "Desarrollador Web Full-Stack",
         "company": "Proyectos Independientes y Corporativos",
-        "period": "Agosto 2024 – Actualidad",
-        "description": "Entrega de soluciones digitales de calidad de producción mediante ciclos acelerados de desarrollo asistido por IA.",
+        "period": "Ago 2024 – Actualidad",
+        "description": "Desarrollador único en +7 proyectos web de producción utilizando desarrollo asistido por IA (vibe coding).",
         "points": [
-          "Construcción y despliegue de +7 plataformas de producción utilizando metodologías de vibe coding e IDEs agénticos (Google Antigravity).",
-          "Portafolio de clientes diverso que incluye BaruCourier, Carnitas by Mr. Cousins y diversas entidades educativas.",
-          "Responsabilidad de extremo a extremo, desde el análisis de requerimientos hasta el despliegue y mantenimiento en la nube."
+          "Entrega de soluciones integrales para BaruCourier SAS, Colegio Bilingüe San José Campestre, Eduqualityco y Carnitas by Mr. Cousins.",
+          "Gestión completa desde el análisis de requerimientos hasta el despliegue final en la nube.",
+          "Uso de IDEs agénticos (Google Antigravity) y Google AI Studio para acelerar resultados con calidad de producción."
+        ]
+      },
+      {
+        "role": "Mentor Técnico Internacional",
+        "company": "Team Colombia | FIRST Global Challenge",
+        "period": "2023 – Actualidad",
+        "description": "Mentoría técnica en el evento FIRST más grande del mundo, representando a Colombia entre +190 naciones.",
+        "points": [
+          "Contribución clave para alcanzar el Top 4 Mundial (2024) y el Top 8 Mundial (2020).",
+          "Líder en el proceso de Documentación de Ingeniería que obtuvo el 3er Puesto Mundial (2024).",
+          "Diseño de estrategias educativas para estudiantes de secundaria en producción audiovisual y relaciones internacionales.",
+          "Liderazgo en relaciones internacionales y estrategia de comunicación, logrando reconocimientos globales para el equipo (2022–2025)."
+        ]
+      },
+      {
+        "role": "Mentor Técnico — FTC (First Tech Challenge)",
+        "company": "Team Colombia",
+        "period": "2025 – Actualidad",
+        "description": "Co-fundador de uno de los primeros equipos FTC en Colombia para el regional nacional inaugural.",
+        "points": [
+          "Liderazgo en diseño mecánico, construcción de robots y estrategia de ensamble alineada con estándares internacionales.",
+          "Responsable de la selección de materiales y construcción de robótica de alto rendimiento."
         ]
       },
       {
         "role": "Consultor en Digitalización",
-        "company": "Eduqualityco – Ministerio de Cultura de Colombia",
+        "company": "Eduqualityco · Ministerio de Cultura de Colombia",
         "period": "2024",
-        "description": "Asesor técnico para el proyecto 'Pacífico en su Salsa', optimizando procesos educativos mediante la digitalización.",
+        "description": "Asesor técnico para la digitalización del proyecto 'Pacífico en su Salsa'.",
         "points": [
-          "Aplicación de IA Generativa y Prompt Engineering al diseño de etiquetas y branding para emprendedores tradicionales del Pacífico.",
-          "Estructuración y optimización de entornos de aprendizaje digital alineados con los estándares del Ministerio de Cultura.",
-          "Vinculación del patrimonio cultural con herramientas tecnológicas modernas para empoderar a las comunidades locales de la costa pacífica."
+          "Estructuración y optimización de contenidos educativos para entornos de aprendizaje digital.",
+          "Implementación de herramientas tecnológicas para la entrega educativa alineada con estándares ministeriales.",
+          "Vinculación del patrimonio cultural y la IA aplicada para el diseño de etiquetas de emprendedores del Pacífico."
         ]
       },
       {
-        "role": "Mentor Técnico - FIRST Tech Challenge (FTC)",
-        "company": "Team Colombia",
-        "period": "2025 – Actualidad",
-        "description": "Mentor fundador para la entrada de Colombia en el ecosistema FTC, preparando el primer regional nacional.",
+        "role": "Mentor Técnico — FRC (First Robotics Competition)",
+        "company": "Alcaldía de Yumbo · Stemachines 9087",
+        "period": "Ene – May 2023",
+        "description": "Líder de proyecto de robótica educativa bajo normativas internacionales FRC.",
         "points": [
-          "Liderazgo en diseño mecánico y estrategia de construcción alineada con los estándares internacionales de FIRST.",
-          "Responsable de la selección de materiales y construcción de chasis para robótica de alto rendimiento.",
-          "Mentoría a estudiantes en fundamentos de ingeniería y cumplimiento normativo."
+          "Diseño de chasis, mecanismos y documentación técnica en total cumplimiento con las reglas de FRC.",
+          "Soporte técnico en el diseño y construcción de robots de competencia a gran escala."
         ]
       },
       {
-        "role": "Mentor Técnico - FRC Stemachines 9087",
-        "company": "Alcaldía de Yumbo",
-        "period": "Enero – Mayo 2023",
-        "description": "Líder de proyecto de robótica educativa, enfocado en los estándares de competencia FRC a gran escala.",
+        "role": "Monitor Académico y Mentor de Pares",
+        "company": "Universidad Autónoma de Occidente — Programa COMPAS",
+        "period": "2024",
+        "description": "Apoyo académico y social para estudiantes de primer semestre durante su adaptación universitaria.",
         "points": [
-          "Diseño de chasis y mecanismos complejos en total cumplimiento con las regulaciones de la FIRST Robotics Competition.",
-          "Producción de documentación técnica de alto nivel para revisión de ingeniería internacional.",
-          "Soporte en la construcción y pruebas de prototipos funcionales para eventos regionales."
+          "Diseño de estrategias formativas para cultura ciudadana y pensamiento crítico.",
+          "Fortalecimiento de habilidades colaborativas en un contexto universitario interdisciplinario."
+        ]
+      },
+      {
+        "role": "Asesor Técnico y Audiovisual",
+        "company": "Colegio Bilingüe San José Campestre · Eduqualityco · Carnitas by Mr. Cousins",
+        "period": "2023 – Actualidad",
+        "description": "Asesoría creativa y técnica para proyectos estudiantiles e imagen institucional.",
+        "points": [
+          "Producción de material audiovisual y soporte en comunicación estratégica para clientes comerciales y educativos."
+        ]
+      },
+      {
+        "role": "Referee y Juez",
+        "company": "MakeX Robotics · FIRST LEGO League",
+        "period": "Varios Eventos",
+        "description": "Evaluación oficial de diseño, rendimiento y valores fundamentales en robótica.",
+        "points": [
+          "Referee en MakeX (Yumbo): evaluación de rendimiento de robots y aplicación de reglas.",
+          "Juez en FIRST LEGO League (Cali): evaluación de diseño y Valores FIRST."
+        ]
+      },
+      {
+        "role": "Asesor de Proyectos Técnicos",
+        "company": "Instituciones Educativas",
+        "period": "Varios Periodos",
+        "description": "Mentoría a estudiantes en ingeniería aplicada y electrónica.",
+        "points": [
+          "Guía en diseño de prototipos, sistemas embebidos y programación Arduino para soluciones reales."
         ]
       }
     ]
   },
   "achievements": {
-    "title": "Logros y Reconocimientos",
+    "title": "Logros y Premios",
     "items": [
       {
         "value": "Top 4",
@@ -112,8 +154,8 @@
         "label": "Puesto - Documentación de Ingeniería 2024"
       },
       {
-        "value": "Global",
-        "label": "Reconocimiento Internacional en Redes Sociales (2022-2025)"
+        "value": "Top 8",
+        "label": "Mundial - FIRST Global Challenge 2020"
       },
       {
         "value": "1er",
@@ -122,22 +164,45 @@
     ]
   },
   "stack": {
-    "title": "Stack Tecnológico",
+    "title": "Stack Técnico y Certificaciones",
     "categories": {
-      "engineering": "Ingeniería y Simulación",
+      "engineering": "Ingeniería y Electrónica",
       "programming": "Programación",
-      "electronics": "Electrónica",
-      "dev": "Desarrollo y Multimedia"
+      "dev": "Desarrollo Digital e IA",
+      "certifications": "Certificaciones Clave"
     },
     "items": {
-      "engineering": ["MATLAB", "Octave", "SolidWorks", "Onshape"],
-      "programming": ["Python", "R", "Java", "C++"],
-      "electronics": ["Arduino", "Proteus", "Multisim"],
-      "dev": ["React", "TypeScript", "Google Antigravity", "Manus"],
+      "engineering": [
+        "MATLAB y Octave",
+        "SolidWorks y Onshape",
+        "Arduino, Proteus y Multisim",
+        "Sistemas Digitales y Simulación"
+      ],
+      "programming": [
+        "Python y R",
+        "Java y C++",
+        "Arduino IDE",
+        "HTML/CSS"
+      ],
+      "dev": [
+        "React y TypeScript",
+        "Google Antigravity",
+        "Google AI Studio",
+        "Android Studio",
+        "Vibe Coding"
+      ],
+      "certifications": [
+        "Claude Architect — Anthropic",
+        "Generative AI — Google y Cámara de Comercio de Palmira",
+        "Prompt Engineering — Google y Udemy",
+        "Modelado y Simulación 3D — UAO",
+        "Educación Innovadora — Team Colombia",
+        "Profesionalismo Cordial (Gracious Professionalism) — FIRST"
+      ],
       "languages": [
         "Español: C2 (Nativo)",
         "Inglés: C1+ (Linguaskill)",
-        "Francés: A2 (Universidad Autónoma de Occidente)",
+        "Francés: A2 (UAO)",
         "Alemán: A2 (Duolingo)"
       ]
     }
@@ -146,7 +211,7 @@
     "title": "Impacto Global",
     "description": "Participación activa en escenarios internacionales de ciencia y tecnología.",
     "items": [
-      "Líder nacional en FIRST Global Challenge (Ginebra, Suiza 2022)",
+      "Líder Nacional en FIRST Global Challenge (Ginebra 2022)",
       "Voluntario Internacional FIRST Global 2025 (Panamá)",
       "Reconocimiento internacional en redes sociales Team Colombia"
     ]
