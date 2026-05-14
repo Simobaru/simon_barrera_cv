@@ -1,0 +1,137 @@
+{
+  "hero": {
+    "role": "Mechatronics Engineer · AI Specialist · Robotics Technical Leader",
+    "statement": "I don't just design systems: I implement them, test them, and make them work in real contexts.",
+    "tagline": "Systems Engineering · Operational Execution · Sustainable Impact",
+    "cta_primary": "View Experience",
+    "cta_secondary": "Download CV"
+  },
+  "about": {
+    "title": "Professional Profile",
+    "description": "I am interested in technology not as an end, but as a means to solve real problems. My work moves between engineering, education, and operational execution, always seeking to bridge the gap between theory and effective implementation.",
+    "philosophy": "I prefer systems that work for 10 years over brilliant solutions that fail in production.",
+    "mindset": [
+      "Systemic approach: complete processes, not isolated tasks.",
+      "Obsession with traceability and metrics.",
+      "High tolerance for incomplete contexts and pressure."
+    ]
+  },
+  "experience": {
+    "title": "Featured Experience",
+    "items": [
+      {
+        "role": "Operations Coordinator & Legal Representative",
+        "company": "BaruCourier SAS",
+        "period": "2024 – Present",
+        "description": "Strategic leadership of a last-mile logistics startup. Managed traceability of +27,500 monthly packages via data systematization and the development of BaruLogix, a proprietary operational control platform."
+      },
+      {
+        "role": "Founder & Director",
+        "company": "SCIBARU AI",
+        "period": "2023 – Present",
+        "description": "AI consulting and corporate training. Delivered 6+ programs for clients like Sagezza (AI for adults 60+), Colegio Bilingüe San José Campestre, and Eduqualityco, focusing on agentic systems (Google Antigravity, Manus) and rapid ROI."
+      },
+      {
+        "role": "International Technical Mentor",
+        "company": "Team Colombia | FIRST Global Challenge",
+        "period": "Since 2023",
+        "description": "Representing Colombia among 190+ nations. Achieved Top 4 Worldwide (2024) and 3rd Place in Engineering Documentation. Leading international relations and technical optimization under extreme pressure."
+      },
+      {
+        "role": "Full-Stack Web Developer",
+        "company": "Independent & Corporate Projects",
+        "period": "August 2024 – Present",
+        "description": "Developed 7+ production platforms using vibe coding and agentic IDEs (Google Antigravity). Clients include BaruCourier (BaruLogix), Carnitas by Mr. Cousins, and various educational institutions."
+      },
+      {
+        "role": "Digitalization Consultant",
+        "company": "Eduqualityco – Ministry of Culture",
+        "period": "2024",
+        "description": "Led the 'Pacífico en su Salsa' project digitalization. Applied generative AI and prompt engineering to label design for traditional Viche entrepreneurs, bridging cultural heritage with Industry 4.0."
+      },
+      {
+        "role": "Technical Mentor - FIRST Tech Challenge (FTC)",
+        "company": "Team Colombia",
+        "period": "2025 – Present",
+        "description": "Co-founded one of the first FTC teams in Colombia. Leading mechanical design, construction strategy, and materials selection under international FIRST standards."
+      },
+      {
+        "role": "Technical Mentor - FRC Stemachines 9087",
+        "company": "Yumbo Mayor's Office",
+        "period": "January – May 2023",
+        "description": "Chassis design and technical documentation for the FIRST Robotics Competition. Supported mechanisms development in full compliance with FRC regulations."
+      },
+      {
+        "role": "Academic Monitor & Peer Mentor",
+        "company": "Universidad Autónoma de Occidente",
+        "period": "2024",
+        "description": "Supported first-semester students in the COMPAS program. Designed formative strategies for civic education and critical thinking within an interdisciplinary context."
+      }
+    ]
+  },
+  "achievements": {
+    "title": "Achievements & Awards",
+    "items": [
+      {
+        "value": "Top 4",
+        "label": "Worldwide - FIRST Global Challenge 2024"
+      },
+      {
+        "value": "3rd",
+        "label": "Place - Engineering Documentation 2024"
+      },
+      {
+        "value": "Global",
+        "label": "International Social Media Recognition (2022-2025)"
+      },
+      {
+        "value": "1st",
+        "label": "Place - Ingenium Fest UAO 2025"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech Stack",
+    "categories": {
+      "engineering": "Engineering & Simulation",
+      "programming": "Programming",
+      "electronics": "Electronics",
+      "dev": "Development & Multimedia"
+    },
+    "items": {
+      "engineering": ["MATLAB", "Octave", "SolidWorks", "Onshape"],
+      "programming": ["Python", "R", "Java", "C++"],
+      "electronics": ["Arduino", "Proteus", "Multisim"],
+      "dev": ["React", "TypeScript", "Google Antigravity", "Manus"],
+      "languages": [
+        "Spanish: C2 (Native)",
+        "English: C1+ (Linguaskill)",
+        "French: A2 (Universidad Autónoma de Occidente)",
+        "German: A2 (Duolingo)"
+      ]
+    }
+  },
+  "international": {
+    "title": "Global Impact",
+    "description": "Active participation in international science and technology scenarios.",
+    "items": [
+      "National Leader at FIRST Global Challenge (Geneva, Switzerland 2022)",
+      "International Volunteer FIRST Global 2025 (Panama)",
+      "International recognition on social media Team Colombia"
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "email": "simon.baruiz@gmail.com",
+    "phone": "+57 304 283 6901",
+    "location": "Cali – Palmira, Colombia (Available Virtually Worldwide)",
+    "cta": "Let's Talk",
+    "message": "I am interested in projects where technology has a clear purpose, is executed with rigor, and generates real impact. Always open to conversations involving engineering, innovation, and building systems that work in the real world."
+  },
+  "nav": {
+    "about": "Profile",
+    "experience": "Experience",
+    "achievements": "Achievements",
+    "contact": "Contact"
+  }
+}

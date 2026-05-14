@@ -1,0 +1,137 @@
+{
+  "hero": {
+    "role": "Ingeniero Mecatrónico · Especialista en IA · Líder Técnico de Robótica",
+    "statement": "No solo diseño sistemas: los implemento, los pruebo y los hago funcionar en contextos reales.",
+    "tagline": "Ingeniería de Sistemas · Ejecución Operativa · Impacto Sostenible",
+    "cta_primary": "Ver Experiencia",
+    "cta_secondary": "Descargar CV"
+  },
+  "about": {
+    "title": "Perfil Profesional",
+    "description": "Me interesa la tecnología no como un fin, sino como un medio para resolver problemas reales. Mi trabajo se mueve entre la ingeniería, la educación y la ejecución operativa, buscando siempre cerrar la brecha entre la teoría y la implementación efectiva.",
+    "philosophy": "Prefiero sistemas que funcionen 10 años a soluciones brillantes que fallan en producción.",
+    "mindset": [
+      "Enfoque sistémico: procesos completos, no tareas aisladas.",
+      "Obsesión por la trazabilidad y métricas.",
+      "Alta tolerancia a contextos incompletos y presión."
+    ]
+  },
+  "experience": {
+    "title": "Experiencia Destacada",
+    "items": [
+      {
+        "role": "Coordinador de Operaciones y Representante Legal",
+        "company": "BaruCourier SAS",
+        "period": "2024 – Actualidad",
+        "description": "Liderazgo estratégico de una startup de logística de última milla. Gestión de trazabilidad de +27.500 paquetes mensuales mediante la sistematización de datos y el desarrollo de BaruLogix, una plataforma propia de control operativo."
+      },
+      {
+        "role": "Fundador y Director",
+        "company": "SCIBARU AI",
+        "period": "2023 – Actualidad",
+        "description": "Consultoría y capacitación corporativa en IA. Ejecución de +6 programas para clientes como Sagezza (IA para adultos 60+), Colegio Bilingüe San José Campestre y Eduqualityco, enfocados en sistemas agénticos (Google Antigravity, Manus) y ROI rápido."
+      },
+      {
+        "role": "Mentor Técnico Internacional",
+        "company": "Team Colombia | FIRST Global Challenge",
+        "period": "Desde 2023",
+        "description": "Representación de Colombia ante +190 naciones. Logro del Top 4 Mundial (2024) y 3er puesto en Documentación de Ingeniería. Liderazgo en relaciones internacionales y optimización técnica bajo presión extrema."
+      },
+      {
+        "role": "Desarrollador Web Full-Stack",
+        "company": "Proyectos Independientes y Corporativos",
+        "period": "Agosto 2024 – Actualidad",
+        "description": "Desarrollo de +7 plataformas de producción usando vibe coding e IDEs agénticos (Google Antigravity). Clientes incluyen BaruCourier (BaruLogix), Carnitas by Mr. Cousins e instituciones educativas."
+      },
+      {
+        "role": "Consultor en Digitalización",
+        "company": "Eduqualityco – Ministerio de Cultura",
+        "period": "2024",
+        "description": "Liderazgo en la digitalización del proyecto 'Pacífico en su Salsa'. Aplicación de IA generativa y prompt engineering para el diseño de etiquetas de emprendedores del Viche tradicional, uniendo patrimonio cultural con Industria 4.0."
+      },
+      {
+        "role": "Mentor Técnico - FIRST Tech Challenge (FTC)",
+        "company": "Team Colombia",
+        "period": "2025 – Actualidad",
+        "description": "Co-fundador de uno de los primeros equipos FTC en Colombia. Liderazgo en diseño mecánico, estrategia de construcción y selección de materiales bajo estándares internacionales FIRST."
+      },
+      {
+        "role": "Mentor Técnico - FRC Stemachines 9087",
+        "company": "Alcaldía de Yumbo",
+        "period": "Enero – Mayo 2023",
+        "description": "Diseño de chasis y documentación técnica para FIRST Robotics Competition. Soporte en el desarrollo de mecanismos en total cumplimiento con la normativa FRC."
+      },
+      {
+        "role": "Monitor Académico y Mentor de Pares",
+        "company": "Universidad Autónoma de Occidente",
+        "period": "2024",
+        "description": "Apoyo a estudiantes de primer semestre en el programa COMPAS. Diseño de estrategias formativas para cultura ciudadana y pensamiento crítico en un contexto interdisciplinario."
+      }
+    ]
+  },
+  "achievements": {
+    "title": "Logros y Reconocimientos",
+    "items": [
+      {
+        "value": "Top 4",
+        "label": "Mundial - FIRST Global Challenge 2024"
+      },
+      {
+        "value": "3er",
+        "label": "Puesto - Documentación de Ingeniería 2024"
+      },
+      {
+        "value": "Global",
+        "label": "Reconocimiento Internacional en Redes Sociales (2022-2025)"
+      },
+      {
+        "value": "1er",
+        "label": "Puesto - Ingenium Fest UAO 2025"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Stack Tecnológico",
+    "categories": {
+      "engineering": "Ingeniería y Simulación",
+      "programming": "Programación",
+      "electronics": "Electrónica",
+      "dev": "Desarrollo y Multimedia"
+    },
+    "items": {
+      "engineering": ["MATLAB", "Octave", "SolidWorks", "Onshape"],
+      "programming": ["Python", "R", "Java", "C++"],
+      "electronics": ["Arduino", "Proteus", "Multisim"],
+      "dev": ["React", "TypeScript", "Google Antigravity", "Manus"],
+      "languages": [
+        "Español: C2 (Nativo)",
+        "Inglés: C1+ (Linguaskill)",
+        "Francés: A2 (Universidad Autónoma de Occidente)",
+        "Alemán: A2 (Duolingo)"
+      ]
+    }
+  },
+  "international": {
+    "title": "Impacto Global",
+    "description": "Participación activa en escenarios internacionales de ciencia y tecnología.",
+    "items": [
+      "Líder nacional en FIRST Global Challenge (Ginebra, Suiza 2022)",
+      "Voluntario Internacional FIRST Global 2025 (Panamá)",
+      "Reconocimiento internacional en redes sociales Team Colombia"
+    ]
+  },
+  "contact": {
+    "title": "Contacto",
+    "email": "simon.baruiz@gmail.com",
+    "phone": "+57 304 283 6901",
+    "location": "Cali – Palmira, Colombia (Disponible Virtualmente a Nivel Mundial)",
+    "cta": "Hablemos",
+    "message": "Estoy interesado en proyectos donde la tecnología tenga un propósito claro, se ejecute con rigor y genere impacto real. Siempre abierto a conversaciones que involucren ingeniería, innovación y construcción de sistemas que funcionen en el mundo real."
+  },
+  "nav": {
+    "about": "Perfil",
+    "experience": "Experiencia",
+    "achievements": "Logros",
+    "contact": "Contacto"
+  }
+}
