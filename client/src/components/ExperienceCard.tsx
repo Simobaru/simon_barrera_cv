@@ -6,6 +6,9 @@ interface ExperienceItem {
   company: string;
   period: string;
   description: string;
+  points?: string[];
+  link?: string;
+  link_label?: string;
 }
 
 interface ExperienceCardProps {
@@ -24,14 +27,26 @@ export default function ExperienceCard({ item, index }: ExperienceCardProps) {
     >
       <div className="absolute top-0 left-0 w-1 h-full bg-gradient-to-b from-primary/0 via-primary/50 to-primary/0 opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-l-2xl" />
       
-      <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-4 mb-4">
+      <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-4 mb-6">
         <div>
           <h3 className="text-xl md:text-2xl font-bold text-white group-hover:text-primary transition-colors">
             {item.role}
           </h3>
-          <div className="flex items-center gap-2 text-primary/80 mt-1 font-medium">
-            <Briefcase className="w-4 h-4" />
-            <span>{item.company}</span>
+          <div className="flex flex-wrap items-center gap-x-4 gap-y-2 mt-2">
+            <div className="flex items-center gap-2 text-primary/90 font-medium">
+              <Briefcase className="w-4 h-4" />
+              <span>{item.company}</span>
+            </div>
+            {item.link && (
+              <a 
+                href={item.link.startsWith('http') ? item.link : `https://${item.link}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-xs text-primary hover:underline flex items-center gap-1 opacity-80 hover:opacity-100 transition-opacity"
+              >
+                {item.link_label || item.link}
+              </a>
+            )}
           </div>
         </div>
         
@@ -41,9 +56,20 @@ export default function ExperienceCard({ item, index }: ExperienceCardProps) {
         </div>
       </div>
       
-      <p className="text-muted-foreground leading-relaxed">
+      <p className="text-muted-foreground leading-relaxed mb-4">
         {item.description}
       </p>
+
+      {item.points && item.points.length > 0 && (
+        <ul className="space-y-2">
+          {item.points.map((point, i) => (
+            <li key={i} className="flex items-start gap-3 text-sm text-muted-foreground/90">
+              <span className="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary/60 shrink-0" />
+              <span>{point}</span>
+            </li>
+          ))}
+        </ul>
+      )}
     </motion.div>
   );
 }
